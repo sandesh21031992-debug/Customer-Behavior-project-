@@ -8,3 +8,9 @@ In this Power BI Project giving a comprehensive analysis of customer Behavior da
 :> Gender Wise Purchases :- Visual is describing that how the gender wise purchase is gone through.
 :> Season wise Purchase :- in this visual has been described that what is the purchasing nature at the time of season changes.
 :> Age Group wise purchasing :- In this visual the customers are divided into group age wise.
+
+
+#  Why this Project is Important 
+Visually Engaging :- the dashboard features a combination of diverse visualization, including staked column charts , pie charts, donut charts and some filters creating an interactive and  insightful analysis.
+Business -Driving insights :- Each visual is design to answer specific business questions, such as identifying turnover of the purchasing behaviour  and understanding customer behavior in the market trend.
+Strategic value :- the insights provide a purchasing behaviour in the market that can be useful                                        to taking business decisions  like how to increase purchasing demand after making some changes in productions.
