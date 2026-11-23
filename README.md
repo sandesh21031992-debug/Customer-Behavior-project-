@@ -19,3 +19,4 @@ Strategic value :- the insights provide a purchasing behaviour in the market tha
 => Data : https://github.com/sandesh21031992-debug/Customer-Behavior-project-/blob/main/Customer%20Behaviour%20Dataset.csv
 => Dashboard :https://github.com/sandesh21031992-debug/Customer-Behavior-project-/blob/main/Customer%20Behavior.pbix
 => screen Shot: https://github.com/sandesh21031992-debug/Customer-Behavior-project-/blob/main/Screenshot%202026-11-22%20222221.png
+=> Mysql : https://github.com/sandesh21031992-debug/Customer-Behavior-project-/blob/main/Customer_Behaviour.sql
